@@ -1,0 +1,19 @@
+{
+  "name": "bertoni-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/reynoldmorel/hash-calculation-test.git"
+  },
+  "author": "Reynold Morel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/reynoldmorel/hash-calculation-test/issues"
+  },
+  "homepage": "https://github.com/reynoldmorel/hash-calculation-test#readme"
+}
